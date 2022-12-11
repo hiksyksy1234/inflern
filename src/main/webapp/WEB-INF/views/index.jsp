@@ -1,5 +1,7 @@
 <%@ page isELIgnored="false" %>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"  %>
 <html>
 <body>
    <h1>지속적인 파일 업데이트2</h1>
